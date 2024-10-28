@@ -8,5 +8,6 @@ body {
 
 header {
     border-bottom: solid 2px rgb(86, 0, 0);
-
+    padding: 20px;
+    
 }
