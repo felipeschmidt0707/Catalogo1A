@@ -20,6 +20,6 @@ section {
     justify-content: center;
 }
 
-.texto {
-margin: 20px;
+.chamada-texto {
+    margin-right: 5%;
 }
